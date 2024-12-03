@@ -1,8 +1,5 @@
 # **RPG Game**
 
-Welcome to **ROPG**, an immersive Role-Playing Game that combines stealth, strategy, and exploration! Take control of your character, navigate the game world, and master your skills to conquer challenges.
-
----
 
 ## **Features**
 
